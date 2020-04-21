@@ -1,0 +1,17 @@
+{
+  "name": "indovinatori-remake",
+  "displayName": "indovinatori-remake",
+  "expo": {
+    "name": "indovinatori-remake",
+    "slug": "indovinatori-remake",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
